@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Welcome to Brian的小窝</title>
+    <url>/announcement/</url>
+    <content><![CDATA[<h1 id="Announcement"><a href="#Announcement" class="headerlink" title="Announcement"></a>Announcement</h1><p>此域名 <span class="exturl" data-url="aHR0cHM6Ly9ibG9nLjZyMTRuLmNvbS8=">blog.6r14n.com<i class="fa fa-external-link-alt"></i></span> 即将过期</p>
+<p>使用 <strong><span class="exturl" data-url="aHR0cHM6Ly93bGkxODkuZ2l0aHViLmlvLw==">wli189.github.io&#x2F;<i class="fa fa-external-link-alt"></i></span></strong></p>
+<h2 id="作者留下的话"><a href="#作者留下的话" class="headerlink" title="作者留下的话"></a>作者留下的话</h2><p>欢迎来到Brian的小窝，我会这里分享一些使用技巧。<br>请持续关注我的Blog。</p>
+]]></content>
+      <categories>
+        <category>Announcement</category>
+      </categories>
+      <tags>
+        <tag>Announcement</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>HELLO WORLD</title>
     <url>/hello-world/</url>
     <content><![CDATA[<p>🌎🌍🌏<br>Hello World.<br>This is a test page for blog.<br>你好，世界。<br>这是用于测试Blog的页面。</p>
@@ -14,20 +28,6 @@
       </categories>
       <tags>
         <tag>hello world</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Welcome to Brian的小窝</title>
-    <url>/announcement/</url>
-    <content><![CDATA[<h1 id="Announcement"><a href="#Announcement" class="headerlink" title="Announcement"></a>Announcement</h1><p>域名 <del>brianwl.top</del> 已过期</p>
-<p>以后请使用 <strong><span class="exturl" data-url="aHR0cHM6Ly9ibG9nLjZyMTRuLmNvbS8=">blog.6r14n.com<i class="fa fa-external-link-alt"></i></span></strong></p>
-<h2 id="作者留下的话"><a href="#作者留下的话" class="headerlink" title="作者留下的话"></a>作者留下的话</h2><p>欢迎来到Brian的小窝，我会这里分享一些使用技巧。<br>请持续关注我的Blog。</p>
-]]></content>
-      <categories>
-        <category>Announcement</category>
-      </categories>
-      <tags>
-        <tag>Announcement</tag>
       </tags>
   </entry>
 </search>
