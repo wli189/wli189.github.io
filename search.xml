@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Welcome to Brian的小窝</title>
-    <url>/announcement/</url>
-    <content><![CDATA[<h2 id="Announcement"><a href="#Announcement" class="headerlink" title="Announcement"></a>Announcement</h2><h3 id="作者留下的话"><a href="#作者留下的话" class="headerlink" title="作者留下的话"></a>作者留下的话</h3><p>欢迎来到 Brian 的小窝，我会这里分享一些使用技巧。<br>请持续关注我的 Blog。</p>
-]]></content>
-      <categories>
-        <category>Announcement</category>
-      </categories>
-      <tags>
-        <tag>Announcement</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>HELLO WORLD</title>
     <url>/hello-world/</url>
     <content><![CDATA[<p>🌎🌍🌏<br>Hello World.<br>This is a test page for blog.<br>你好，世界。<br>这是用于测试Blog的页面。</p>
@@ -26,6 +14,18 @@
       </categories>
       <tags>
         <tag>hello world</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Welcome to Brian的小窝</title>
+    <url>/announcement/</url>
+    <content><![CDATA[<h2 id="Announcement"><a href="#Announcement" class="headerlink" title="Announcement"></a>Announcement</h2><h3 id="作者留下的话"><a href="#作者留下的话" class="headerlink" title="作者留下的话"></a>作者留下的话</h3><p>欢迎来到 Brian 的小窝，我会这里分享一些使用技巧。<br>请持续关注我的 Blog。</p>
+]]></content>
+      <categories>
+        <category>Announcement</category>
+      </categories>
+      <tags>
+        <tag>Announcement</tag>
       </tags>
   </entry>
 </search>
